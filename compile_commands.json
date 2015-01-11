@@ -1,0 +1,49 @@
+[
+{
+  "directory": "/richard/_saleae/SaleaeAnalyzerSdk-1.1.32/SWDAnalyzer",
+  "command": "g++ -I../include -O3 -w -c -fpic -orelease/SWDSimulationDataGenerator.o source/SWDSimulationDataGenerator.cpp",
+  "file": "/richard/_saleae/SaleaeAnalyzerSdk-1.1.32/SWDAnalyzer/source/SWDSimulationDataGenerator.cpp"
+}
+,
+{
+  "directory": "/richard/_saleae/SaleaeAnalyzerSdk-1.1.32/SWDAnalyzer",
+  "command": "g++ -I../include -O0 -w -c -fpic -g -odebug/SWDSimulationDataGenerator.o source/SWDSimulationDataGenerator.cpp",
+  "file": "/richard/_saleae/SaleaeAnalyzerSdk-1.1.32/SWDAnalyzer/source/SWDSimulationDataGenerator.cpp"
+}
+,
+{
+  "directory": "/richard/_saleae/SaleaeAnalyzerSdk-1.1.32/SWDAnalyzer",
+  "command": "g++ -I../include -O3 -w -c -fpic -orelease/SWDAnalyzerResults.o source/SWDAnalyzerResults.cpp",
+  "file": "/richard/_saleae/SaleaeAnalyzerSdk-1.1.32/SWDAnalyzer/source/SWDAnalyzerResults.cpp"
+}
+,
+{
+  "directory": "/richard/_saleae/SaleaeAnalyzerSdk-1.1.32/SWDAnalyzer",
+  "command": "g++ -I../include -O0 -w -c -fpic -g -odebug/SWDAnalyzerResults.o source/SWDAnalyzerResults.cpp",
+  "file": "/richard/_saleae/SaleaeAnalyzerSdk-1.1.32/SWDAnalyzer/source/SWDAnalyzerResults.cpp"
+}
+,
+{
+  "directory": "/richard/_saleae/SaleaeAnalyzerSdk-1.1.32/SWDAnalyzer",
+  "command": "g++ -I../include -O3 -w -c -fpic -orelease/SWDAnalyzerSettings.o source/SWDAnalyzerSettings.cpp",
+  "file": "/richard/_saleae/SaleaeAnalyzerSdk-1.1.32/SWDAnalyzer/source/SWDAnalyzerSettings.cpp"
+}
+,
+{
+  "directory": "/richard/_saleae/SaleaeAnalyzerSdk-1.1.32/SWDAnalyzer",
+  "command": "g++ -I../include -O0 -w -c -fpic -g -odebug/SWDAnalyzerSettings.o source/SWDAnalyzerSettings.cpp",
+  "file": "/richard/_saleae/SaleaeAnalyzerSdk-1.1.32/SWDAnalyzer/source/SWDAnalyzerSettings.cpp"
+}
+,
+{
+  "directory": "/richard/_saleae/SaleaeAnalyzerSdk-1.1.32/SWDAnalyzer",
+  "command": "g++ -I../include -O3 -w -c -fpic -orelease/SWDAnalyzer.o source/SWDAnalyzer.cpp",
+  "file": "/richard/_saleae/SaleaeAnalyzerSdk-1.1.32/SWDAnalyzer/source/SWDAnalyzer.cpp"
+}
+,
+{
+  "directory": "/richard/_saleae/SaleaeAnalyzerSdk-1.1.32/SWDAnalyzer",
+  "command": "g++ -I../include -O0 -w -c -fpic -g -odebug/SWDAnalyzer.o source/SWDAnalyzer.cpp",
+  "file": "/richard/_saleae/SaleaeAnalyzerSdk-1.1.32/SWDAnalyzer/source/SWDAnalyzer.cpp"
+}
+]
