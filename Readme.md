@@ -1,4 +1,4 @@
-## Serial Wire Debug (SWD) Analyser for Saleae Logic ##
+## Serial Wire Debug (SWD) Analyzer for Saleae Logic ##
 
 ### Todo
 
